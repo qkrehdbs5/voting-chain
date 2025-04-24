@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / Brownie / Hardhat
+node_modules/
+build/
+artifacts/
+.env
+
+# MacOS
+.DS_Store
